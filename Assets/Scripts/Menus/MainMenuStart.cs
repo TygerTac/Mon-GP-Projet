@@ -10,7 +10,12 @@ public class MainMenuStart : MonoBehaviour
         SceneManager.LoadScene("Level01");
     }
 
-    //Comment on fait pour load une sauvegarde? :raised_eyebrows:
+    //Comment on fait pour load une sauvegarde? la video n'aide pas
+    /*public void Loadgame()
+    {
+
+    }
+    */
 
     public void QuitGame()
     {
